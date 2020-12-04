@@ -1,7 +1,7 @@
 # IoT_TC1004B
 Repository created to save several scripts generated to solve the challenge of the TC1004B course.
 
-## MQTT_MySQL_Publisher.py
+* MQTT_MySQL_Publisher.py
 Python script that connects to MQTT broker and inserts information in database hosted by AWS.
 
 ## Temperature_MQTT.ino
